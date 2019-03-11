@@ -1,0 +1,3 @@
+﻿Feladat
+    Egészítse ki megoldást a kör területének kiszámításával
+    Egészítse ki a feladatot hibakezeléssel (ErrorProvider megjelenéssel)
