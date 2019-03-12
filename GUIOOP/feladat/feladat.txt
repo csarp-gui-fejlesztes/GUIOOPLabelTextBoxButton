@@ -1,0 +1,4 @@
+﻿Feladat
+    Egészítse ki megoldást a gömb felszínének és térfogatának kiszámításával
+    Alkalmazzon ErrorProvider-t a különböző hibák kezelésére
+    A form legyen dinamikus, az eredmények csak gomb lenyomására jelenjenek meg
