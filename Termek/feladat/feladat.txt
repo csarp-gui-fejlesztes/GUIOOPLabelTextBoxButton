@@ -1,0 +1,5 @@
+﻿Írja meg a termék osztály konstruktorát és bruttó árat visszaadó metódusát
+A GUIn írja meg a gombok kattintás eseményét
+Beépített kivételek segítségével biztosítsa, hogy a program futása ne szakadjon meg. A hibaüzeneteket ErrorPrivider segítségével jelenítse meg.
+Saját kivételek segítségével biztosítsa, hogy a program értelmetlen adatok esetén ne adjon eredményt. A hibaüzeneteket ErrorProvider segítségével jelenítse meg.
+A form legyen dinamikus, az eredmények csak gomb lenyomására jelenjenek meg 
