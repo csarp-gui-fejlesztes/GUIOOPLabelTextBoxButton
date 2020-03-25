@@ -8,16 +8,16 @@
     - Példányosítson egy kört a megadott sugárral!
     - Számolja ki a kör kerületét és jelenítse meg a megfelelő TextBox-ban!
 Hibakezelés
-    A GUI-n try-catch szerkezetett használva kapja el a Convert.ToDouble metódus alapértelmezett kivételeit!
+    A GUI-n try-catch szerkezetet használva kapja el a Convert.ToDouble metódus alapértelmezett kivételeit!
     A kör osztályban a konstruktorban és a setterben vizsgálni kell, hogy a sugár nem-e negatív vagy nulla!
-    Ha igen, készítsen saját kívételt, és a kívétel szövege legyen az a szöveg amit a felhasználó a képernyőn hibaüzenetként fog látni!
-    A GUI-n a try-catch szerkezetett egészítse ki saját kivétel elkapással!
+    Ha igen, készítsen saját kivételt, és a kivétel szövege legyen az a szöveg amit a felhasználó a képernyőn hibaüzenetként fog látni!
+    A GUI-n a try-catch szerkezetet egészítse ki saját kivétel elkapással!
     Készítsen ErrorProvidert a Form-ra!
     A catch szerkezetben jelenítse meg a hiba szövegét a sugár beviteli vezérlőhöz kapcsolva!
     Biztosítsa az ErrorPrivider törlését is!
 Haladó feladat
     A program indulásakor az eredményt tartalmazó TextBox ne legyen látható!
-    Az adatmegjelenítéskor az eredményt tartlmazó TextBox legyen látható!
+    Az adatmegjelenítéskor az eredményt tartalmazó TextBox legyen látható!
     Ha a TextBox-ban elkezdünk egy új számot beírni törölje az eredmény tartalmazó TextBox-ot!
 Gyakorló feladat
     Egészítse ki megoldást a kör területének kiszámításával!
