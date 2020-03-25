@@ -1,4 +1,8 @@
 ﻿Feladat
-    Egészítse ki megoldást a gömb felszínének és térfogatának kiszámításával
-    Alkalmazzon ErrorProvider-t a különböző hibák kezelésére
-    A form legyen dinamikus, az eredmények csak gomb lenyomására jelenjenek meg
+    Egészítse ki megoldást a gömb felszínének és térfogatának kiszámításával!
+    Fejlessze a GUI-t: eredmény megjelenítéshez és hibakezeléshez vezérlőt rakjon a Form-ra!
+    Készítsen Gomb osztályt és készítse el a metódusait!
+    A Gomb osztályban dobjon saját kivételt a hibás adatok esetén!   
+    A számolás eseményt egészítse ki a Gomb osztály létrehozásával és számított adatainak megjelenítésére!
+    Alkalmazzon kivételkezelést és ErrorProvider-t a különböző hibák kezelésére!
+    A form legyen dinamikus, az eredmények csak gomb lenyomására jelenjenek meg!
